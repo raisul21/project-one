@@ -1,0 +1,56 @@
+body{
+    background-color:#75c35d;
+}
+.loginbox{
+    background-color:white;
+    width:130px;
+  padding: 35px;
+  padding-top:10px;
+  padding-bottom: 17px;
+  padding-right:38px;
+  padding-left: 20px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 200px;
+   
+  
+
+
+   
+
+}
+.loginbox:hover{
+    transform: scale(1.9);
+}
+.loginbox input{
+    padding: 8px;
+    margin-top: 8px;
+    width: 100%;
+    text-decoration: none;
+    border: none;
+    display: block;
+    background-color:#f2f2f2;
+    font-size: 10px;
+    
+}
+#rifat{
+
+
+
+background-color:green;
+display:block;
+width: 145px;
+font-size: 11px;
+}
+.rejistered{
+font-size: 9px;
+text-align: center;
+}
+.rejistered span{
+color: #b1b6b6;
+}
+.rejistered a{
+color: #35Bc5E;
+ decoration: none; 
+ 
+}
